@@ -1,0 +1,2 @@
+//A script that all the document in the collection school
+db.school.find().pretty()
