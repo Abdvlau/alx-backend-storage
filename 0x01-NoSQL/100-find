@@ -1,2 +1,2 @@
 //Script that list all document
-school.find({"name" : {"$regex": /^Holberton/}})
+db.school.find({"name" : {"$regex": /^Holberton/}})
